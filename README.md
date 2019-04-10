@@ -26,7 +26,9 @@ Dark theme is optional. But if you do like dark theme, please pip install **qdar
 
 # How to run <img src="https://github.com/manpeihong/ML_TEXT/blob/master/Images/logo_b.png" width="100">
 
-Download the whole package to local, and then run "**ML_TEXT.py**".
+Download the whole package to local, and then run "**ML_TEXT.py**". 
+
+For example, in MAC OS Terminal, first `cd <path to program root folder>`, once you are in there, then `python3 ML_TEXT.py`. 
 
 # Update log
 
